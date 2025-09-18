@@ -1,27 +1,32 @@
 # Learning-Resources
-A compilation of resources for keeping up with the latest trends in NLP (.
 
-## Early Transformers
+A compilation of resources for keeping up with the latest trends in NLP.
 
-BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
+> **Note:** This resource list is a work in progress. More papers and topics will be added regularly. Contributions and suggestions are welcome!
 
-GPT1 - https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+## Some Fundamental Transformers
 
-GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
-
-Language Models are Few-Shot Learners - https://arxiv.org/abs/2005.14165
+1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
+2. GPT1 - https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+3. GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+4. T5: https://arxiv.org/abs/1910.10683
+5. XLNet - https://arxiv.org/pdf/1906.08237
+6. RoBERTa: https://arxiv.org/abs/1907.11692
+7. ALBERT: https://arxiv.org/abs/1909.11942
 
 ## Papers for understanding fundamentals
 
-Attention is all you need - https://arxiv.org/pdf/1706.03762
-
-Memory Is All You Need - https://arxiv.org/pdf/2406.08413
-
-
+1. Attention is all you need - https://arxiv.org/pdf/1706.03762
+2. Memory Is All You Need - https://arxiv.org/pdf/2406.08413
+3. Language Models are Few-Shot Learners - https://arxiv.org/abs/2005.14165
 
 ## Reinforcement Learning for LLMs
 
 Basics of RL - OpenAI - https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
+
+Reinforcement Learning with Human Feedback: Learning Dynamic Choices via Pessimism - https://arxiv.org/abs/2305.18438
+
+InstructGPT - https://arxiv.org/abs/2203.02155
 
 DPO:
 
@@ -32,6 +37,12 @@ PPO:
 
 1. Proximal Policy Optimization Algorithms - https://arxiv.org/pdf/1707.06347
 2. PPO Docs OpenAI - https://spinningup.openai.com/en/latest/algorithms/ppo.html
+
+GRPO: 
+
+1. DeepSeekMath - https://arxiv.org/abs/2402.03300
+2. Blog - GRPO Explained - https://aipapersacademy.com/deepseekmath-grpo/
+3. DeepSeek-R1 - https://arxiv.org/pdf/2501.12948
 
 ## Mechanistic Interpretability
 
