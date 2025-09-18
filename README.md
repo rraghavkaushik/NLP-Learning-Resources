@@ -4,14 +4,20 @@ A compilation of resources for keeping up with the latest trends in NLP (.
 ## Early Transformers
 
 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - https://arxiv.org/abs/1810.04805
+
 GPT1 - https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+
 GPT2 - https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+
 Language Models are Few-Shot Learners - https://arxiv.org/abs/2005.14165
 
 ## Papers for understanding fundamentals
 
 Attention is all you need - https://arxiv.org/pdf/1706.03762
+
 Memory Is All You Need - https://arxiv.org/pdf/2406.08413
+
+
 
 ## Reinforcement Learning for LLMs
 
