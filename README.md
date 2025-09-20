@@ -56,3 +56,8 @@ GRPO:
 
 1. Scaling Laws for Neural Language Models - https://arxiv.org/pdf/2001.08361
 2. Scaling Laws for Autoregressive Generative Modeling - https://arxiv.org/pdf/2010.14701
+
+## MLSys
+
+1. Matrix multiplication - Nvidia Blog - https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html
+2. Understanding GPU Performance - Nvidia Blog - https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html#gpu-arch__fig2
