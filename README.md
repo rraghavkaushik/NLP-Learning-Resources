@@ -13,6 +13,7 @@ A compilation of resources for keeping up with the latest trends in NLP.
 5. XLNet - https://arxiv.org/pdf/1906.08237
 6. RoBERTa: https://arxiv.org/abs/1907.11692
 7. ALBERT: https://arxiv.org/abs/1909.11942
+8. LongFormer - https://arxiv.org/abs/2004.05150
 
 ## Papers for understanding fundamentals
 
