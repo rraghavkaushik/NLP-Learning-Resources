@@ -57,6 +57,7 @@ GRPO:
 
 1. Scaling Laws for Neural Language Models - https://arxiv.org/pdf/2001.08361
 2. Scaling Laws for Autoregressive Generative Modeling - https://arxiv.org/pdf/2010.14701
+3. Sacling Laws of Synthetic Data for Lnguage Models - https://arxiv.org/pdf/2503.19551
 
 ## MLSys
 
