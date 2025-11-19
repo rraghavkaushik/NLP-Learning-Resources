@@ -38,6 +38,7 @@ PPO:
 
 1. Proximal Policy Optimization Algorithms - https://arxiv.org/pdf/1707.06347
 2. PPO Docs OpenAI - https://spinningup.openai.com/en/latest/algorithms/ppo.html
+3. Understanding PPO from First Principles Blog - https://mlwithouttears.com/2025/11/17/understanding-ppo-from-first-principles/
 
 GRPO: 
 
