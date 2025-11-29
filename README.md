@@ -62,6 +62,6 @@ GRPO:
 
 ## MLSys
 
-1. [Mixed Precision Training](https://arxiv.org/pdf/1710.03740
-2. [Matrix multiplication - Nvidia Blog](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html
-3. [Understanding GPU Performance - Nvidia Blog](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html#gpu-arch__fig2
+1. [Mixed Precision Training](https://arxiv.org/pdf/1710.03740)
+2. [Matrix multiplication - Nvidia Blog](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
+3. [Understanding GPU Performance - Nvidia Blog](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html#gpu-arch__fig2)
