@@ -10,10 +10,11 @@ A compilation of resources for keeping up with the latest trends in NLP.
 2. [GPT1](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 3. [GPT2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 4. [T5](https://arxiv.org/abs/1910.10683)
-5. [XLNet](https://arxiv.org/pdf/1906.08237)
-6. [RoBERTa](https://arxiv.org/abs/1907.11692)
-7. [ALBERT](https://arxiv.org/abs/1909.11942)
-8. [LongFormer](https://arxiv.org/abs/2004.05150)
+5. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+6. [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+7. [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
+8. [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
+9. [ROFORMER](https://arxiv.org/pdf/2104.09864)
 
 ## Papers/Blogs for understanding fundamentals
 
