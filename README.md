@@ -15,11 +15,12 @@ A compilation of resources for keeping up with the latest trends in NLP.
 7. [ALBERT](https://arxiv.org/abs/1909.11942)
 8. [LongFormer](https://arxiv.org/abs/2004.05150)
 
-## Papers for understanding fundamentals
+## Papers/Blogs for understanding fundamentals
 
 1. [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 2. [Memory Is All You Need](https://arxiv.org/pdf/2406.08413)
 3. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+4. [The Illustrated Transformer Blog](https://jalammar.github.io/illustrated-transformer/)
 
 ## Reinforcement Learning for LLMs
 
