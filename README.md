@@ -1,5 +1,7 @@
 # Learning-Resources
 
+<meta name="google-site-verification" content="w16roLqKNFjcyRlizYF8_0WZ5kbhZAM3vdLULjJNqnY" />
+
 A compilation of resources for keeping up with the latest trends in NLP.
 
 > **Note:** This resource list is a work in progress. More papers and topics will be added regularly. Contributions and suggestions are welcome!
