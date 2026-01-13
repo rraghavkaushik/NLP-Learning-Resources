@@ -18,7 +18,7 @@ A compilation of resources for keeping up with the latest trends in NLP.
 8. [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 9. [ROFORMER](https://arxiv.org/pdf/2104.09864)
 
-## Papers/Blogs for understanding fundamentals
+## Fundamental LLM & Transformer Papers/Blogs
 
 1. [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 2. [Memory Is All You Need](https://arxiv.org/pdf/2406.08413)
