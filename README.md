@@ -17,20 +17,25 @@ A compilation of resources for keeping up with the latest trends in NLP.
 7. [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942)
 8. [Longformer: The Long-Document Transformer](https://arxiv.org/abs/2004.05150)
 9. [ROFORMER](https://arxiv.org/pdf/2104.09864)
+10. [Language Models are Few-Shot Learners - GPT3 paper](https://arxiv.org/abs/2005.14165)
 
 ## Fundamental LLM & Transformer Papers/Blogs
 
 1. [Attention is all you need](https://arxiv.org/pdf/1706.03762)
 2. [Memory Is All You Need](https://arxiv.org/pdf/2406.08413)
-3. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+3. [Byte-pair Encoding](https://arxiv.org/pdf/1508.07909)
 4. [The Illustrated Transformer Blog](https://jalammar.github.io/illustrated-transformer/)
 5. [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer - MoE paper for LMs](https://arxiv.org/abs/1701.06538)
+6. [Fast Transformer Decoding: One Write-Head is All You Need - Multi-Query Attention (MQA) Paper](https://arxiv.org/pdf/1911.02150)
+7. [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints - Grouped Query Attention Paper](https://arxiv.org/pdf/2305.13245)
 
 ## Reinforcement Learning for LLMs
 
-- [Basics of RL - OpenAI](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
-- [Reinforcement Learning with Human Feedback: Learning Dynamic Choices via Pessimism ](https://arxiv.org/abs/2305.18438)
-- [InstructGPT ](https://arxiv.org/abs/2203.02155)
+1. [Basics of RL - OpenAI](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
+2. [Reinforcement Learning with Human Feedback: Learning Dynamic Choices via Pessimism ](https://arxiv.org/abs/2305.18438)
+3. [InstructGPT ](https://arxiv.org/abs/2203.02155)
+4. [Training language models to follow instructions with human feedback](https://arxiv.org/pdf/2203.02155)
+5. [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741)
 
 DPO:
 
