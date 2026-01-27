@@ -76,3 +76,4 @@ GRPO:
 2. [Matrix multiplication - Nvidia Blog](https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html)
 3. [Understanding GPU Performance - Nvidia Blog](https://docs.nvidia.com/deeplearning/performance/dl-performance-gpu-background/index.html#gpu-arch__fig2)
 4. [How to Train Really Large Models on Many GPUs? - Blog](https://lilianweng.github.io/posts/2021-09-25-train-large/)
+5. [Efficiently Scaling Transformer Inference](https://arxiv.org/pdf/2211.05102)
